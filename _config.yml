@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: Funky Pigeon # REQUIRED - Enter your app name
+  ios_id: 441509555 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: com.red7mobile.funky.pigeon.v2 # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -32,8 +32,8 @@ app:
   # e.g. images/app-preview.mp4
   # 640x1136px
 
-  #app_twitter: # uncomment if the app has a twitter account "@my-awesome-app"
-  #creator_twitter: # uncomment if creator has a twitter account "@awesome-dev"
+  app_twitter: @thefunkypigeon # uncomment if the app has a twitter account "@my-awesome-app"
+  creator_twitter: @lionheartdevs # uncomment if creator has a twitter account "@awesome-dev"
   #social_image: # uncomment and add an image - defaults to icon
   # This will show up when your url is shared on sites like facebook and twitter
   # To update use path relative to project root with no leading slash:
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Personalised Cards & Gifts # Optional
+marketing_desc: We have personalised cards and gifts for all occasions from Easter and Father’s Day to all birthday and new home cards. Use your iPhone’s photo library or Instagram, to create a unique personalised card, notebook, poster, cushion, mug, keyring and baubles.
 
 #
 # Social Links
@@ -52,12 +52,12 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 #
 social-links:
   github:
-  facebook:
-  twitter:
-  pinterest:
-  instagram:
+  facebook: funkypigeoncards
+  twitter: thefunkypigeon
+  pinterest: thefunkypigeon
+  instagram: thefunkypigeon
   email:
-  youtube: # channel/<your_long_string> or <user-name>
+  youtube: TheFunkyPigeon/featured # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 #
